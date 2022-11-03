@@ -6,10 +6,10 @@ export default function AnimatedText(){
     return (
         <span className="text-white font-thin w-full lg:w-20 text-center whitespace-nowrap text-base sm:text-xl">
             <Typewriter
-        words={['Computer Science Student','Full-Stack Developer', 'Mern Stack Enthusiast', 'Future Software Engineer']}
+        words={['Electrical Vcational Student','Electrical Failure Analysis Engineer', 'Transports Enthusiast', 'Future Sturture Engineer']}
         loop={0}
         cursor
-        cursorStyle='|'
+        cursorStyle='$'
         typeSpeed={70}
         deleteSpeed={50}
         delaySpeed={1000}

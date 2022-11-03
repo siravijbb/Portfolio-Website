@@ -9,10 +9,9 @@ export default function SummaryInformation(){
 
     return (
         <div className="bg-transparent flex mx-auto">
-            <Socials link="https://www.facebook.com/oussema.dhraief/" icon={fbIcon} />
-            <Socials link="https://www.instagram.com/oussema.dhraief/" icon={instaIcon} />
-            <Socials link="https://www.linkedin.com/in/oussama-dhraief/" icon={linkedinIcon} />
-            <Socials link="https://github.com/oussamadhraief" icon={githubIcon} />
+            <Socials link="https://www.facebook.com/SRBSiravijbb/" icon={fbIcon} />
+            <Socials link="https://www.instagram.com/sierravij.b/" icon={instaIcon} />
+            <Socials link="github.com/siravijbb" icon={githubIcon} />
         </div>
     )
 }

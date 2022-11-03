@@ -39,6 +39,11 @@ export default function Navbar(){
             linkName="Contact Me"
             onclick='takeMeToASection'
              />
+            <NavbarLink
+            destinationSection="https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran"
+            linkName="Resume"
+            onclick='resumeLink'
+            />
         </nav>
     )
 }

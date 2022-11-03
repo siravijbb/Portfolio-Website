@@ -3,16 +3,13 @@ import Skills from "./Skills"
 export default function ExperienceSection(){ 
     return (
         <div id="ExperiencePart" className='h-72 pl-3 overflow-y-scroll w-fit 2xl:w-94 pt-2 2xl:pt-5'>
-            <h1 className="text-main font-semibold 2xl:font-bold">End of Studies Internship</h1>
+            <h1 className="text-main font-semibold 2xl:font-bold">Currently working</h1>
             <p className="font-thin sm:font-normal">
-            Developing and maintaining an E-commerce web application at QUICK Medical services (Full-Stack Developer).
+            Designing and analyzing the possibility failure in component.
             </p>
             <h1 className="text-main font-medium 2xl:font-semibold">Technologies used:</h1>
-            <Skills skillText="Next.js (ReactJS)" />
-            <Skills skillText="CSS3" />
-            <Skills skillText="Tailwind CSS" />
-            <Skills skillText="Express.js (Node.js)" />
-            <Skills skillText="MongoDB" />
+            <Skills skillText="Easy EDA Design" />
+            <Skills skillText="Github" />
         </div>
     )
 }
