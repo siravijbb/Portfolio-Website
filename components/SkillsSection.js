@@ -3,6 +3,10 @@ import WebSkill from './WebSkill'
 
 export default function SkillsSection(){
 
+    const Clang = "1200px-C_Programming_Language.svg_l7dpio.png"
+    const Cplusplus = "ISO_C__Logo.svg_ibzqgw.png"
+    const Arduino = "arduino.svg"
+    const Python = "python-logo-only_huuqhl1xvq9x.svg"
     const html = "html_pxk3rn.svg"
     const css = "css_gyaf7z.svg"
     const js = "js_imr3bo.svg"
@@ -16,10 +20,8 @@ export default function SkillsSection(){
     const git = "git_b23wnr.svg"
     const tailwind = "tailwind_k1zaze.png"
     const threejs = "Three.js_Icon.svg_i13nrx.png"
-    const Python = "python_1xvq9x.svg"
-    const Clang = "c_1xvq9x.svg"
-    const Cplusplus = "cplus_1xvq9x.svg"
-    const Arduino = "arduino_1xvq9x.svg"
+  
+
 
 
     return ( 

@@ -3,10 +3,10 @@ import SocialMediaLink from "./SocialMediaLink"
 
 export default function ContactMeOnSocials(){
 
-    const fb = "f2_thoute.png"
-    const insta = "i2_mbsbcg.png"
-    const linked = "l2_pchcac.png"
-    const git = "g2_d8lcsl.png"
+    const fb = "f2_thoute_ic2j8v.png"
+    const insta = "i2_mbsbcg_h6vqn5.png"
+    const linked = "l2_pchcac_hryahv.png"
+    const git = "g2_d8lcsl_n4iklv.png"
     const robot = "robot_dkwhr2.gif"
 
     return( 

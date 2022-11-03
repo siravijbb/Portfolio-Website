@@ -5,7 +5,7 @@ export default function FooterContainer(){
     const fbIcon = "fb_gvrvz0.png"
     const instaIcon = "insta_c3rkxa.png"
     const linkedinIcon = "linkedin_jvrtlj.png"
-    const githubIcon = "github_zccvyq.png"
+    const githubIcon = "github_zccvyq.png "
 
     return (
         <div className="grid sm:flex sm:flex-wrap bg-inherit px-14 pt-24 pb-5 space-y-3 sm:space-y-0 sm:justify-between">

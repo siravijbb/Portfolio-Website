@@ -13,7 +13,6 @@ export default function ExperienceSection(){
             <Skills skillText="Github" />
             <Skills skillText="Microsoft Office" />
             <Skills skillText="Discord" />
-            <Skills skillText="Procument" />
         </div>
     )
 }
