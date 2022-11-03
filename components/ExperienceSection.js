@@ -9,7 +9,11 @@ export default function ExperienceSection(){
             </p>
             <h1 className="text-main font-medium 2xl:font-semibold">Technologies used:</h1>
             <Skills skillText="Easy EDA Design" />
+            <Skills skillText="C++" />
             <Skills skillText="Github" />
+            <Skills skillText="Microsoft Office" />
+            <Skills skillText="Discord" />
+            <Skills skillText="Procument" />
         </div>
     )
 }

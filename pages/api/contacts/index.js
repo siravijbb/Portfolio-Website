@@ -2,6 +2,7 @@ import dbConnect from "../../../utils/dbConnect"
 import Hello from "../../../models/Hello"
 var validator = require('validator')
 
+
 dbConnect()
 
 
@@ -24,3 +25,4 @@ export default async  (req, res) => {
 
     }
 }
+

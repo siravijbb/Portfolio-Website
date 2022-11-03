@@ -2,7 +2,7 @@ import Image from "next/image"
 
 export default function MainSection(){
 
-    const mainPic = "mainPic_m8jjqm_hg4jcc.png"
+    const mainPic = "c_scale,w_410/v1667499586/siravij_p14oap.jpg"
 
     return (
             <div className="mx-auto sm:w-1/2 sm:mx-0 3xl:w-1/4 pt-8 2xl:w-1/3 xl:w-1/3 w-full h-auto relative hover:scale-95 transition-all hover:cursor-pointer">

@@ -10,8 +10,8 @@ module.exports = {
         '3xl': '1696px',
       },
       colors: {
-        'main': '#0f172a',
-        'secondary': '#F5BE3A',
+        'main': '#554994',
+        'secondary': '#F29393',
         'ciel': '#c1d8f0'
       }
     },

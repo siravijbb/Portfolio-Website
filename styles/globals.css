@@ -5,15 +5,22 @@
 @font-face {
   font-family:"Deez-Fonts";
   src: url("../utils/SCRIPTIN.ttf") format("truetype");
+  src: url("../utils/SCRIPALT.ttf") format("truetype");
+  src: url("../utils/SukhumvitSet-Bold.ttf") format("truetype");
+  src: url("../utils/SukhumvitSet-Light.ttf") format("truetype");
+  src: url("../utils/SukhumvitSet-Medium.ttf") format("truetype");
+  src: url("../utils/SukhumvitSet-SemiBold.ttf") format("truetype");
+  src: url("../utils/SukhumvitSet-Thin.ttf") format("truetype");
 }
+
 
 html,
 body {
   padding: 0;
   scroll-behavior: smooth;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: -apple-system,SukhumvitSet, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif ;
 }
 
 a {
@@ -27,7 +34,7 @@ a {
 }
 
 #Logo {
-  font-family: "Deez-Fonts";
+  font-family: "";
 }
 
 #ProjectsPart::-webkit-scrollbar, #EducationPart::-webkit-scrollbar,  #ExperiencePart::-webkit-scrollbar, #SkillsPart::-webkit-scrollbar {
@@ -79,8 +86,8 @@ a {
   bottom: 15px;
   margin : auto;
   border: 4px solid transparent;
-  border-top-color: #0f172a;
-  border-left-color: #0f172a;
+  border-top-color: #F29393;
+  border-left-color: #F29393;
   border-radius: 50%;
   -webkit-animation: spin 1.5s linear infinite;
   animation: spin 1.5s linear infinite;
@@ -94,8 +101,8 @@ a {
   bottom: 15px;
   content: "";
   border: 4px solid transparent;
-  border-top-color: #F5BE3A;
-  border-left-color: #F5BE3A;
+  border-top-color: #FFCCB3;
+  border-left-color: #FFCCB3;
   border-radius: 50%;
   -webkit-animation: spinBack 1s linear infinite;
   animation: spinBack 1s linear infinite;

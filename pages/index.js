@@ -18,7 +18,7 @@ export default function Home(props) {
     <div className='bg-main overflow-x-clip py-0 h-20'>  
     <LoadingContext.Provider value={{loading,setLoading}}>
       <Head>
-        <title>Oussama Dhraief - Full-Stack Web Developer</title>
+        <title>Siravij Praevisvakij - Your choice of currious developer</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta name="description" content="The Siravij Portfolio."/>
         <meta name="robots" content="index, follow" />
@@ -32,18 +32,17 @@ export default function Home(props) {
         <meta property="og:type" content="website"/>
         <meta property="og:url" content="www.siravijbb.me"/>
         <meta property="og:image" content="https://res.cloudinary.com/dwvwjxizk/image/upload/v1641491432/banner_b4lbdc.png"/>
-        <meta property="og:description" content="A passionate software developer with great ambitions."/>
+        <meta property="og:description" content="A Failure analysis engineer who interest in  wedevelopment with currious."/>
         <meta itemProp='name' content="Oussama Dhraief - Full-Stack Web Developer"/>
-        <meta itemProp='description' content="A passionate software developer with great ambitions."/>
+        <meta itemProp='description' content="A Failure analysis engineer who interest in  wedevelopment with currious."/>
         <meta itemProp='image' content="https://res.cloudinary.com/dwvwjxizk/image/upload/v1641491432/banner_b4lbdc.png"/>
         <meta name="twitter:card" value="summary_large_image"/>
-        <meta name="twitter:title" value="Oussama Dhraief - Full-Stack Web Developer"/>
-        <meta name="twitter:description" value="A passionate software developer with great ambitions."/>
+        <meta name="twitter:title" value="Siravij Praevisavakij - Payload Failure Analysis"/>
+        <meta name="twitter:description" value="A Failure analysis engineer who interest in  wedevelopment with currious."/>
         <meta name="twitter:image" value="https://res.cloudinary.com/dwvwjxizk/image/upload/v1641491432/banner_b4lbdc.png"/>
       </Head>
       <Header />
       <MainSection />
-      <BackgroundImage />
       <AboutMeSection />
       <Resume />
       <ContactMeSection />
