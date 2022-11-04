@@ -5,8 +5,8 @@ export default function SkillsSection(){
 
     const Clang = "1200px-C_Programming_Language.svg_l7dpio.png"
     const Cplusplus = "ISO_C__Logo.svg_ibzqgw.png"
-    const Arduino = "arduino.svg"
-    const Python = "python-logo-only_huuqhl1xvq9x.svg"
+    const Arduino = "arduino.png"
+    const Python = "python.png"
     const html = "html_pxk3rn.svg"
     const css = "css_gyaf7z.svg"
     const js = "js_imr3bo.svg"
