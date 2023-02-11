@@ -33,7 +33,7 @@ export default function Home(props) {
         <meta property="og:url" content="www.siravijbb.me"/>
         <meta property="og:image" content="https://res.cloudinary.com/dwvwjxizk/image/upload/v1641491432/banner_b4lbdc.png"/>
         <meta property="og:description" content="A Failure analysis engineer who interest in  wedevelopment with currious."/>
-        <meta itemProp='name' content="Oussama Dhraief - Full-Stack Web Developer"/>
+        <meta itemProp='name' content="Siravij Praevisavakij - Payload Failure Analysis"/>
         <meta itemProp='description' content="A Failure analysis engineer who interest in  wedevelopment with currious."/>
         <meta itemProp='image' content="https://res.cloudinary.com/dwvwjxizk/image/upload/v1641491432/banner_b4lbdc.png"/>
         <meta name="twitter:card" value="summary_large_image"/>
